@@ -1,6 +1,6 @@
 # Resources 
 
-## Coding Ideas
+## Coding/Modeling Guide
 * https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/
 * https://www.geeksforgeeks.org/box-jenkins-methodology-for-arima-models/
 
